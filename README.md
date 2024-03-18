@@ -1,2 +1,2 @@
 # Visualizations-
-Compilation of Tableau dashboards 
+Compilation of Tableau, Python, and R Visualizations
